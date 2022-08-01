@@ -18,6 +18,10 @@ ul{
     font-weight: 500;
     transition: 0.6s ease;
    }
+   ul li a:hover{
+    background: #fff;
+    color: #000;
+   }
 .header_avatar{
     display: flex;
     align-items: center;
