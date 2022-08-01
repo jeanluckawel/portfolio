@@ -30,3 +30,9 @@ ul{
     background-color: #fff;
     text-align: right;
    }
+   i{
+    background: none;
+    color: #fff;
+    margin-right: 10px;
+    font-size: 20px;
+   }
